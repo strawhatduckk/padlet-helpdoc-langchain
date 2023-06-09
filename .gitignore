@@ -1,0 +1,8 @@
+# Python venv
+langchain_helpdoc_env/
+
+# MacOS store
+.DS_Store
+
+# ChromaDB
+.chroma/
